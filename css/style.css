@@ -34,11 +34,11 @@
   line-height: 1em;
   transform-origin: 0 0;
 }
-@media only screen and (max-width: 395px){
+@media only screen and (max-width: 500px){
   .ml10 .letter {
- font-size:10px !important;
+ font-size:13px !important;
  line-height: 2em;
- word-wrap: break-word;
+ white-space: normal;
   }
 }
 
